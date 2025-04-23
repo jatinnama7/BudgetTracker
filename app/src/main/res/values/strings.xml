@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <string name="hint_description">Description (e.g., Salary, Rent)</string>
+    <string name="hint_amount">Amount (e.g., 5000)</string>
+    <string name="save">Save</string>
+    <string name="balance_label">Balance: ₹0</string>
+    <string name="income_label">Income: ₹0</string>
+    <string name="expense_label">Expense: ₹0</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="app_description">Track your expenses and income in one place.</string>
+</resources>
