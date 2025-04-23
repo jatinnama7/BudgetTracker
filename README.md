@@ -93,17 +93,21 @@ cd BudgetTracker
 
 ## 📌 To-Do List
 
-- 🍴 Fork the project
+- Add income/expense UI
 
-- 👯 Clone the repo
+- Setup Room database
 
-- 📦 Create your feature branch
+- Display transaction list
 
-- ✅ Commit your changes
+- Color-code income vs expenses
 
-- 📤 Push to the branch
+- Export reports as PDF
 
-- 🔁 Open a Pull Request
+- Add user authentication
+
+- Cloud sync for backup
+
+
 
 ---
 
